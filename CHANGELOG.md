@@ -1,5 +1,9 @@
 # Changelog 🪵
 
+# 2.0.5
+
+- [Add]: Change buymeacoffee link
+
 # 2.0.4
 
 - [Add]: Change package name to flutter_onboarding_screen_adaptive

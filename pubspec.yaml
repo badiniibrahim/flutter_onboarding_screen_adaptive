@@ -3,7 +3,7 @@ description: "Flutter package that provides a customizable onboarding experience
 homepage: https://github.com/badiniibrahim/flutter_onboarding_screen_adaptive
 repository: https://github.com/badiniibrahim/flutter_onboarding_screen_adaptive
 
-version: 2.0.4
+version: 2.0.5
 
 environment:
   sdk: ">=3.3.3 <4.0.0"

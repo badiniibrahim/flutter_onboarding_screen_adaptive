@@ -19,7 +19,7 @@ The Onboarding Screen is a Flutter package that provides a customizable onboardi
 
 Liked some of my work? Buy me a coffee. Thanks for your support :heart:
 
-<a href="https://buymeacoffee.com/yourusername" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height=64></a>
+<a href="https://buymeacoffee.com/toncopilote" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height=64></a>
 
 ## Screenshot
 
