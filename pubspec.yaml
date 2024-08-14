@@ -1,9 +1,9 @@
 name: flutter_onboarding_screen_adaptive
-description: "Flutter package that provides a customizable onboarding experience for new users. It includes a series of pages with navigation controls and animations, designed to introduce users to the app's features in a user-friendly manner."
+description: "Flutter package that provides a customizable onboarding experience for new users."
 homepage: https://github.com/badiniibrahim/flutter_onboarding_screen_adaptive
 repository: https://github.com/badiniibrahim/flutter_onboarding_screen_adaptive
 
-version: 2.0.3
+version: 2.0.4
 
 environment:
   sdk: ">=3.3.3 <4.0.0"
