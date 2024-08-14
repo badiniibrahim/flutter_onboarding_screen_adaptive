@@ -44,7 +44,7 @@ Add the dependency to your `pubspec.yaml` file:
 ```yaml
 dependencies:
   ...
-  flutter_onboarding_screen: latest_version
+  flutter_onboarding_screen_adaptive: latest_version
 ```
 
 ## Here's a complete example showcasing the usage of the Onboarding Screen:
